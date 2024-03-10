@@ -187,8 +187,8 @@ nav img{
     grid-column: 50%;
 }
 .box{
-    height: 240px;
-    width: 320px;
+    height: 12.5vw;
+    width: 16.6vw;
     border-radius: 10px;
     overflow: hidden;
     position: relative;
