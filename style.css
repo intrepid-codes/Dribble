@@ -404,10 +404,11 @@ nav i{
     #page2-images{
         grid-template-columns: repeat(1, 1fr);
     }
-    #page3{
-        padding: 60px 20px;
+      #page3{
+        padding: 20px;
     }
     #page3 h1{
+        padding-top: 60px;
         font-family: "Source Serif 4";
         font-weight: 300;
         font-size: 55px;
