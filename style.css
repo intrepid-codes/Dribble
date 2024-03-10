@@ -194,6 +194,10 @@ nav img{
     position: relative;
     transition: .3s;
 }
+.image-container{
+    height: 12.5vw;
+    width: 16.6vw;
+}
 .box img{
     height: 100%;
     width: 100%;
