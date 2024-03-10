@@ -405,7 +405,7 @@ nav i{
         grid-template-columns: repeat(1, 1fr);
     }
     #page3{
-        padding: 20px;
+        padding: 60px 20px;
     }
     #page3 h1{
         font-family: "Source Serif 4";
